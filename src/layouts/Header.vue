@@ -2,11 +2,11 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Color Avatar</h2>
+    <h2 class="site-title">零域色彩头像</h2>
 
     <div class="header-right">
       <a
-        href="https://github.com/Codennnn/vue-color-avatar"
+        href="https://github.com/dstansice/vue-color-avatar"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
